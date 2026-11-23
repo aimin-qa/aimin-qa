@@ -12,7 +12,3 @@ Currently building an API automation testing framework with Python and pytest.
 - API automation framework with layered structure
 - CI pipeline for automated regression
 - Preparing for the China Computer Technology Proficiency Exam (intermediate)
-
-**Contact**
-
-- Email: 18721574546@163.com
